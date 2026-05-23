@@ -7,3 +7,6 @@ logs/*.json
 # Python
 __pycache__/
 *.pyc
+
+# Proxy
+proxy.txt
