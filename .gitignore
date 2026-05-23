@@ -1,0 +1,9 @@
+# Sensitive
+privkey.txt
+wallets.txt
+wallets/*.json
+logs/*.json
+
+# Python
+__pycache__/
+*.pyc
